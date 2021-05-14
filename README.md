@@ -1,4 +1,4 @@
-#Portfolio Website 
-###created as a part of course work
+# Portfolio Website 
+### created as a part of course work
 
-##Uses simple HTML, CSS & JavaScript
+## Uses simple HTML, CSS & JavaScript
