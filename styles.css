@@ -241,7 +241,7 @@
 }
 
 .hero__description {
-  font-size: 45px;
+  font-size: 40px;
   background: #da22ff; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
